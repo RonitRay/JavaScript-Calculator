@@ -1,0 +1,53 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+
+html, body{
+	background-color: grey;
+}
+
+h1{
+	color:white;
+	font-family: "Slabo 27px"
+}
+
+h3{
+	color:white;
+	font-family: "Slabo 27px"
+}
+
+#Out{
+	background-color: #99ff66;
+	height:75px;
+	width: 250px;
+	border-top-left-radius: 2em;
+	border-top-right-radius: 2em;
+	margin:auto;
+ 	margin-top: 20px;
+  padding-top: 20px;
+}
+
+#calc{
+	background-color: white;
+	width: 250px;
+	padding-top: 20px;
+	padding-bottom: 30px;
+	border-bottom-left-radius: 2em;
+	border-bottom-right-radius: 2em;
+	margin: auto;
+  font-family: "Slabo 27px";
+}
+
+#steps{
+	padding-left: 50px;
+	font-family: "Slabo 27px";
+	font-size: 2em;
+}
+
+a{
+	margin: 5px;
+	width: 2.6vw;
+	height: 2.6vw;
+}
+
+.big{
+	width: 83px;
+}
